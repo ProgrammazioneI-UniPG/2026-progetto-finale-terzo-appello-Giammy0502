@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Gian Marco
 
-## Cognome: 
+## Cognome: Roncacè
 
-## Matricola:
+## Matricola: 395555
 
 ## Commenti/modifiche al progetto:
 
